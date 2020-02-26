@@ -12,23 +12,23 @@
 -----------------------
 
 >- ##### iOS Developmet (course of IT Academy) 2020
-- ##### Current profession (Technical Sourcer) 2017 - 2020
-- ##### Freelance Web Designer (some projects) 2017
-- ##### Web Design (studied with a mentor) 2016
+>- ##### Current profession (Technical Sourcer) 2017 - 2020
+>- ##### Freelance Web Designer (some projects) 2017
+>- ##### Web Design (studied with a mentor) 2016
 
 > **I use:**
-* Bitbucket 
-* CocoaPods
-* CoreData
-* Firebase
-* Git
-* JSON
-* MVC & MVVM
-* OOP
-* Swift
-* UIKit
-* UX / UI Design
-* Xcode
+>* Bitbucket 
+>* CocoaPods
+>* CoreData
+>* Firebase
+>* Git
+>* JSON
+>* MVC & MVVM
+>* OOP
+>* Swift
+>* UIKit
+>* UX / UI Design
+>* Xcode
 
 **[Link to my current project](https://podlessky@bitbucket.org/podlessky/easy-verbs.git)**
 
