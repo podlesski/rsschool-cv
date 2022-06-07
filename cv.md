@@ -1,48 +1,51 @@
-## Artemy Podlessky
+## Artemi Podlesski
 
-**+375(29)824-51-91**
+**+48 605 462 037**
 
 **podlesski@icloud.com**
 
-**[Link to my LinkedIn](https://www.linkedin.com/in/artemypodlessky/)**
+**[Link to my LinkedIn](https://www.linkedin.com/in/artemipodlesski/)**
 
 **[Link to my Telegram](https://t.me/podlesski)**
 
-### Experience & Skills
+### SUMMARY
 -----------------------
 
->- ##### iOS Developmet (course of IT Academy) 2020
->- ##### Current profession (Technical Sourcer) 2017 - 2020
->- ##### Freelance Web Designer (some projects) 2017
->- ##### Web Design (studied with a mentor) 2016
+>- ##### App for healthy eating: worked with endpoints, bugs, ui, wrote new screens on SwiftUI
+>- ##### Stock exchange app: worked on filtering securities and ui
+>- ##### Finished education in RSSchool (main language - Objective-C)
+>- ##### Finished iOS Development course (main language - Swift)
+>- ##### Have basic knowledge about algorithms and data structures
+>- ##### Personally my best achievement in iOS Development: I took 5 placein iOS course among 800 participants in iOS course, who were on the first steps
 
-> **I use:**
->* Bitbucket 
->* CocoaPods
->* CoreData
->* Firebase
->* Git
->* JSON
->* MVC & MVVM
->* OOP
+### MAJOR SKILLS
+-----------------------
+
 >* Swift
+>* Objective-C
+>* CoreData
+>* SwiftUI
+>* Foundation
 >* UIKit
->* UX / UI Design
->* Xcode
+>* Unit Testing
+>* Git
+>* Firebase
 
-**[Link to my current project](https://podlessky@bitbucket.org/podlessky/easy-verbs.git)**
+**[Link to my git](https://github.com/podlesski)**
 
-**[Link to my training repository with lots of "dirty" code](https://podlessky@bitbucket.org/podlessky/learning.git)**
+*I learned English by intermediate level online webinars of Canadian teacher on Intermediate level, but in Wargaming, I successfully passed the exam on Pre-Intermediate+*
 
-*English - Intermediate. I learned by online webinars of Canadian teacher on this level.
-My current Head of the Global Department is a native speaker. He doesn't know Russian, but we can understand each other. Now I learn English in courses at my company.*
+*My next careeer step*
+!(careerStep)[/careerStep.webp]
 
 ### About me
 ------------
 
-> iOS Development has become my main hobby in the last year when I randomly bought a book on Swift. Now my first app for the Appstore market almost done, but I don't want to stop learning. My wish is to participate in creating a big commercial app with a professional team. I think that a good app can a little bit change the world, it can help other people. 
+> I have a background in Web Design (did some projects on freelance)
 
-> I believe that I will have amazing success in mobile development because I have: truly wishes, good career results in another profession (at the moment it is strategic position at Wargaming), gorgeous soft skills and constant affection to "how  it works".
+> My extremely hot love is activity rest (longboard, kayaking, hiking)
 
+> Also, I am really into clothing customization with different methods. I am interested in the NFT sphere, recently I created my first NFT **[click here to see it](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/86001667718983620698130212343598809880325701239566260937019935848267700502529)**
 
+> I can call myself biohacker, cause I always experiment on my body, test interesting observations and theories
 
